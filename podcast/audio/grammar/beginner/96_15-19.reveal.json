@@ -1,0 +1,43 @@
+{
+ "ref": "96_15-19",
+ "surah": 96,
+ "verses": [
+  {
+   "verse": 15,
+   "start_ms": 162740,
+   "reveals": [
+    {
+     "ms": 171340,
+     "kind": "w",
+     "id": "96:15:5"
+    }
+   ]
+  },
+  {
+   "verse": 16,
+   "start_ms": 198240,
+   "reveals": []
+  },
+  {
+   "verse": 17,
+   "start_ms": 237446,
+   "reveals": []
+  },
+  {
+   "verse": 18,
+   "start_ms": 257049,
+   "reveals": []
+  },
+  {
+   "verse": 19,
+   "start_ms": 266851,
+   "reveals": [
+    {
+     "ms": 269660,
+     "kind": "w",
+     "id": "96:19:5"
+    }
+   ]
+  }
+ ]
+}

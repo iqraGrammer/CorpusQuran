@@ -1,0 +1,159 @@
+{
+ "ref": "95_1-8",
+ "surah": 95,
+ "verses": [
+  {
+   "verse": 1,
+   "start_ms": 108600,
+   "reveals": [
+    {
+     "ms": 115600,
+     "kind": "w",
+     "id": "95:3:1"
+    },
+    {
+     "ms": 118360,
+     "kind": "a",
+     "id": "rel-2"
+    },
+    {
+     "ms": 118360,
+     "kind": "a",
+     "id": "rel-3"
+    },
+    {
+     "ms": 118360,
+     "kind": "a",
+     "id": "rel-5"
+    },
+    {
+     "ms": 120160,
+     "kind": "w",
+     "id": "95:3:2"
+    },
+    {
+     "ms": 124720,
+     "kind": "a",
+     "id": "rel-6"
+    },
+    {
+     "ms": 129380,
+     "kind": "w",
+     "id": "95:3:3"
+    },
+    {
+     "ms": 130320,
+     "kind": "a",
+     "id": "rel-7"
+    },
+    {
+     "ms": 132820,
+     "kind": "a",
+     "id": "rel-0"
+    }
+   ]
+  },
+  {
+   "verse": 2,
+   "start_ms": 147640,
+   "reveals": [
+    {
+     "ms": 181700,
+     "kind": "a",
+     "id": "rel-0"
+    }
+   ]
+  },
+  {
+   "verse": 3,
+   "start_ms": 200120,
+   "reveals": [
+    {
+     "ms": 225340,
+     "kind": "a",
+     "id": "rel-0"
+    }
+   ]
+  },
+  {
+   "verse": 4,
+   "start_ms": 240900,
+   "reveals": [
+    {
+     "ms": 277220,
+     "kind": "a",
+     "id": "rel-3"
+    },
+    {
+     "ms": 284320,
+     "kind": "a",
+     "id": "rel-4"
+    },
+    {
+     "ms": 288400,
+     "kind": "a",
+     "id": "rel-2"
+    }
+   ]
+  },
+  {
+   "verse": 5,
+   "start_ms": 304060,
+   "reveals": [
+    {
+     "ms": 313159,
+     "kind": "w",
+     "id": "95:5:1"
+    },
+    {
+     "ms": 318740,
+     "kind": "a",
+     "id": "rel-0"
+    },
+    {
+     "ms": 328180,
+     "kind": "a",
+     "id": "rel-1"
+    }
+   ]
+  },
+  {
+   "verse": 6,
+   "start_ms": 346300,
+   "reveals": [
+    {
+     "ms": 371460,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 371460,
+     "kind": "a",
+     "id": "rel-2"
+    }
+   ]
+  },
+  {
+   "verse": 7,
+   "start_ms": 380569,
+   "reveals": [
+    {
+     "ms": 386340,
+     "kind": "a",
+     "id": "rel-5"
+    }
+   ]
+  },
+  {
+   "verse": 8,
+   "start_ms": 397704,
+   "reveals": [
+    {
+     "ms": 406900,
+     "kind": "a",
+     "id": "rel-2"
+    }
+   ]
+  }
+ ]
+}

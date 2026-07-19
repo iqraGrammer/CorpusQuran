@@ -1,0 +1,57 @@
+{
+ "ref": "102_1-8",
+ "surah": 102,
+ "verses": [
+  {
+   "verse": 1,
+   "start_ms": 288100,
+   "reveals": [
+    {
+     "ms": 309280,
+     "kind": "a",
+     "id": "rel-3"
+    },
+    {
+     "ms": 309280,
+     "kind": "a",
+     "id": "rel-1"
+    }
+   ]
+  },
+  {
+   "verse": 2,
+   "start_ms": 318418,
+   "reveals": []
+  },
+  {
+   "verse": 3,
+   "start_ms": 333577,
+   "reveals": []
+  },
+  {
+   "verse": 4,
+   "start_ms": 341157,
+   "reveals": []
+  },
+  {
+   "verse": 5,
+   "start_ms": 344947,
+   "reveals": []
+  },
+  {
+   "verse": 6,
+   "start_ms": 346842,
+   "reveals": []
+  },
+  {
+   "verse": 7,
+   "start_ms": 347789,
+   "reveals": []
+  },
+  {
+   "verse": 8,
+   "start_ms": 348263,
+   "reveals": []
+  }
+ ]
+}
