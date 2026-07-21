@@ -1,0 +1,114 @@
+{
+ "ref": "89_6-14",
+ "surah": 89,
+ "verses": [
+  {
+   "verse": 6,
+   "start_ms": 25680,
+   "reveals": [
+    {
+     "ms": 32220,
+     "kind": "w",
+     "id": "89:6:2"
+    },
+    {
+     "ms": 49320,
+     "kind": "a",
+     "id": "rel-2"
+    },
+    {
+     "ms": 56340,
+     "kind": "w",
+     "id": "89:6:4"
+    },
+    {
+     "ms": 58100,
+     "kind": "w",
+     "id": "89:6:5"
+    },
+    {
+     "ms": 61800,
+     "kind": "a",
+     "id": "rel-4"
+    },
+    {
+     "ms": 62260,
+     "kind": "w",
+     "id": "89:6:6"
+    },
+    {
+     "ms": 65640,
+     "kind": "a",
+     "id": "rel-5"
+    },
+    {
+     "ms": 72940,
+     "kind": "a",
+     "id": "rel-6"
+    },
+    {
+     "ms": 75520,
+     "kind": "a",
+     "id": "rel-8"
+    }
+   ]
+  },
+  {
+   "verse": 7,
+   "start_ms": 337500,
+   "reveals": [
+    {
+     "ms": 357820,
+     "kind": "a",
+     "id": "rel-0"
+    },
+    {
+     "ms": 357820,
+     "kind": "a",
+     "id": "rel-2"
+    }
+   ]
+  },
+  {
+   "verse": 8,
+   "start_ms": 368461,
+   "reveals": []
+  },
+  {
+   "verse": 9,
+   "start_ms": 383941,
+   "reveals": []
+  },
+  {
+   "verse": 10,
+   "start_ms": 391682,
+   "reveals": []
+  },
+  {
+   "verse": 11,
+   "start_ms": 395552,
+   "reveals": []
+  },
+  {
+   "verse": 12,
+   "start_ms": 397487,
+   "reveals": []
+  },
+  {
+   "verse": 13,
+   "start_ms": 398455,
+   "reveals": [
+    {
+     "ms": 398360,
+     "kind": "w",
+     "id": "89:13:2"
+    }
+   ]
+  },
+  {
+   "verse": 14,
+   "start_ms": 398938,
+   "reveals": []
+  }
+ ]
+}

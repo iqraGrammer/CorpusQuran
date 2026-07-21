@@ -1,0 +1,167 @@
+{
+ "ref": "90_11-20",
+ "surah": 90,
+ "verses": [
+  {
+   "verse": 11,
+   "start_ms": 21880,
+   "reveals": [
+    {
+     "ms": 40600,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 42740,
+     "kind": "w",
+     "id": "90:11:3"
+    },
+    {
+     "ms": 46020,
+     "kind": "a",
+     "id": "rel-2"
+    }
+   ]
+  },
+  {
+   "verse": 12,
+   "start_ms": 50640,
+   "reveals": [
+    {
+     "ms": 62060,
+     "kind": "w",
+     "id": "90:12:1"
+    },
+    {
+     "ms": 64220,
+     "kind": "a",
+     "id": "rel-2"
+    },
+    {
+     "ms": 66940,
+     "kind": "w",
+     "id": "90:12:2"
+    },
+    {
+     "ms": 70820,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 72440,
+     "kind": "w",
+     "id": "90:12:3"
+    },
+    {
+     "ms": 76680,
+     "kind": "w",
+     "id": "90:12:4"
+    },
+    {
+     "ms": 79980,
+     "kind": "a",
+     "id": "rel-0"
+    },
+    {
+     "ms": 97400,
+     "kind": "a",
+     "id": "rel-4"
+    },
+    {
+     "ms": 158840,
+     "kind": "a",
+     "id": "rel-3"
+    }
+   ]
+  },
+  {
+   "verse": 13,
+   "start_ms": 289120,
+   "reveals": [
+    {
+     "ms": 306140,
+     "kind": "a",
+     "id": "rel-0"
+    },
+    {
+     "ms": 312840,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 360720,
+     "kind": "a",
+     "id": "rel-6"
+    }
+   ]
+  },
+  {
+   "verse": 14,
+   "start_ms": 363445,
+   "reveals": [
+    {
+     "ms": 368680,
+     "kind": "a",
+     "id": "rel-0"
+    },
+    {
+     "ms": 374600,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 374600,
+     "kind": "a",
+     "id": "rel-6"
+    }
+   ]
+  },
+  {
+   "verse": 15,
+   "start_ms": 400608,
+   "reveals": [
+    {
+     "ms": 404320,
+     "kind": "a",
+     "id": "rel-1"
+    },
+    {
+     "ms": 405760,
+     "kind": "a",
+     "id": "rel-4"
+    }
+   ]
+  },
+  {
+   "verse": 16,
+   "start_ms": 419190,
+   "reveals": []
+  },
+  {
+   "verse": 17,
+   "start_ms": 428480,
+   "reveals": [
+    {
+     "ms": 430060,
+     "kind": "w",
+     "id": "90:17:1"
+    }
+   ]
+  },
+  {
+   "verse": 18,
+   "start_ms": 433126,
+   "reveals": []
+  },
+  {
+   "verse": 19,
+   "start_ms": 435448,
+   "reveals": []
+  },
+  {
+   "verse": 20,
+   "start_ms": 436610,
+   "reveals": []
+  }
+ ]
+}

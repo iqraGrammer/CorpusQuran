@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "episodes": {
     "grammar/beginner/1_1": 3,
     "grammar/beginner/1_2-1_4": 4,
@@ -46,6 +46,32 @@
     "grammar/beginner/36_63-68": 1,
     "grammar/beginner/36_69-74": 1,
     "grammar/beginner/36_75-78": 1,
-    "grammar/beginner/36_79-83": 1
+    "grammar/beginner/36_79-83": 1,
+    "grammar/beginner/94_1-8": 1,
+    "grammar/beginner/93_7-11": 1,
+    "grammar/beginner/91_1-8": 1,
+    "grammar/beginner/91_9-15": 1,
+    "grammar/beginner/93_1-6": 1,
+    "grammar/beginner/89_1-5": 1,
+    "grammar/beginner/89_21-26": 1,
+    "grammar/beginner/89_27-30": 1,
+    "grammar/beginner/90_1-10": 1,
+    "grammar/beginner/90_11-20": 1,
+    "grammar/beginner/92_1-11": 1,
+    "grammar/beginner/92_12-21": 1,
+    "grammar/beginner/89_6-14": 1,
+    "grammar/beginner/89_15-20": 1,
+    "grammar/beginner/67_1-5": 1,
+    "grammar/beginner/67_6-11": 1,
+    "grammar/beginner/67_12-15": 1,
+    "grammar/beginner/67_16-19": 1,
+    "grammar/beginner/67_20-24": 1,
+    "grammar/beginner/67_25-30": 1,
+    "grammar/beginner/84_1-6": 1,
+    "grammar/beginner/84_7-15": 1,
+    "grammar/beginner/84_16-25": 1,
+    "grammar/beginner/85_1-9": 1,
+    "grammar/beginner/85_10-16": 1,
+    "grammar/terms/adjective": 1
   }
 }
