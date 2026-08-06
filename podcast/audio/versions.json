@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "episodes": {
     "grammar/beginner/1_1": 5,
     "grammar/beginner/1_2-1_4": 5,
@@ -415,6 +415,12 @@
     "grammar/beginner/77_20-28": 1,
     "grammar/beginner/77_29-37": 1,
     "grammar/beginner/77_38-45": 1,
-    "grammar/beginner/77_46-50": 1
+    "grammar/beginner/77_46-50": 1,
+    "grammar/beginner/60_1-3": 1,
+    "grammar/beginner/60_4-6": 1,
+    "grammar/beginner/60_10-11": 1,
+    "grammar/beginner/60_12-13": 1,
+    "grammar/beginner/65_1-2": 1,
+    "grammar/beginner/65_3-4": 1
   }
 }
