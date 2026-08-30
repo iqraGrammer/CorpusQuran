@@ -4,85 +4,75 @@
  "verses": [
   {
    "verse": 9,
-   "start_ms": 141380,
+   "start_ms": 11580,
    "reveals": [
     {
-     "ms": 160920,
+     "ms": 11980,
+     "kind": "w",
+     "id": "91:9:1"
+    },
+    {
+     "ms": 63380,
+     "kind": "w",
+     "id": "91:9:3"
+    },
+    {
+     "ms": 63580,
+     "kind": "w",
+     "id": "91:9:4"
+    },
+    {
+     "ms": 89240,
      "kind": "a",
      "id": "rel-1"
     },
     {
-     "ms": 196560,
+     "ms": 116580,
      "kind": "a",
      "id": "rel-3"
-    },
-    {
-     "ms": 206780,
-     "kind": "a",
-     "id": "rel-2"
-    },
-    {
-     "ms": 231000,
-     "kind": "w",
-     "id": "91:9:1"
     }
    ]
   },
   {
    "verse": 10,
-   "start_ms": 257208,
+   "start_ms": 305000,
    "reveals": [
     {
-     "ms": 258839,
-     "kind": "a",
-     "id": "rel-3"
-    },
-    {
-     "ms": 268700,
-     "kind": "a",
-     "id": "rel-2"
-    },
-    {
-     "ms": 290400,
-     "kind": "a",
-     "id": "rel-4"
+     "ms": 461840,
+     "kind": "w",
+     "id": "91:10:1"
     }
    ]
   },
   {
    "verse": 11,
-   "start_ms": 315123,
+   "start_ms": 391700,
+   "reveals": []
+  },
+  {
+   "verse": 12,
+   "start_ms": 478400,
    "reveals": [
     {
-     "ms": 334480,
-     "kind": "a",
-     "id": "rel-0"
-    },
-    {
-     "ms": 343740,
-     "kind": "a",
-     "id": "rel-2"
+     "ms": 478800,
+     "kind": "w",
+     "id": "91:12:2"
     }
    ]
   },
   {
-   "verse": 12,
-   "start_ms": 344080,
-   "reveals": []
-  },
-  {
    "verse": 13,
-   "start_ms": 358559,
+   "start_ms": 478862,
    "reveals": []
   },
   {
    "verse": 14,
-   "start_ms": 365798,
+   "start_ms": 479324,
    "reveals": []
   },
   {
    "verse": 15,
-   "start_ms": 369418,
+   "start_ms": 479786,
    "reveals": []
   }
  ]
