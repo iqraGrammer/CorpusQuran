@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-29",
   "episodes": {
     "grammar/beginner/1_1": 5,
     "grammar/beginner/1_2-1_4": 5,
@@ -478,6 +478,13 @@
     "grammar/beginner/68_17-27": 1,
     "grammar/beginner/58_11-15": 1,
     "grammar/beginner/58_6-10": 1,
-    "grammar/beginner/58_16-22": 1
+    "grammar/beginner/58_16-22": 1,
+    "balagha/main/1_1": 1,
+    "balagha/main/1_2": 1,
+    "balagha/main/1_3": 1,
+    "balagha/main/1_4": 1,
+    "balagha/main/1_5": 1,
+    "balagha/main/1_6": 1,
+    "balagha/main/1_7": 1
   }
 }
