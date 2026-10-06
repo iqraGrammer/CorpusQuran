@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-05",
   "episodes": {
-    "grammar/beginner/1_1": 5,
+    "grammar/beginner/1_1": 7,
     "grammar/beginner/1_2-1_4": 5,
     "grammar/beginner/1_5-1_6": 6,
     "grammar/beginner/1_7": 5,
@@ -963,6 +963,7 @@
     "balagha/main/84_22": 1,
     "balagha/main/84_23": 1,
     "balagha/main/84_24": 1,
-    "balagha/main/84_25": 1
+    "balagha/main/84_25": 1,
+    "grammar_bn/beginner/1_1": 1
   }
 }
